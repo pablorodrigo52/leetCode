@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FindSum/FindSum.iml" filepath="$PROJECT_DIR$/FindSum/FindSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/IsMonotonic/IsMonotonic.iml" filepath="$PROJECT_DIR$/IsMonotonic/IsMonotonic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RemoveElement/RemoveElement.iml" filepath="$PROJECT_DIR$/RemoveElement/RemoveElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetCode.iml" filepath="$PROJECT_DIR$/.idea/leetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validParentheses/validParentheses.iml" filepath="$PROJECT_DIR$/validParentheses/validParentheses.iml" />
     </modules>
   </component>
 </project>
