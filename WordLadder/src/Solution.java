@@ -7,8 +7,6 @@ import java.util.Set;
 public class Solution {
 
     public static void main(String[] args) {
-        // verify if endWord exists in dictionary
-        // how identify that a word differs only one letter
 
         System.out.println(BFSladderLength("hit", "cog", List.of ("hot", "dot", "dog", "lot", "log")));
 
