@@ -6,6 +6,7 @@
  * The commented code uses a additional stack to know the path until find the word.
  * Time complexity is O(n * m * 3^l) where n is the number of lines, m is the number of columns, 3 was the possible nodes and l is the length of word.
  * 
+ * https://leetcode.com/problems/word-search/solutions/2683259/simple-beginner-friendly-approach-dfs-o-mn-3-l-o-l/
  */
 class Solution {
     // Stack<String> visited = new Stack<>();
